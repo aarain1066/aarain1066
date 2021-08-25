@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarain1066
 - 👀 I’m interested in anything Software Engineering, Physics, and racing!
-- 🌱 I’m currently learning R, Python, JavaScript, CSS.
+- 🌱 I’m currently learning R, Python, C, JavaScript, CSS.
 - 📫 Email me! : aarain1066@gmail.com
 
 <!---
