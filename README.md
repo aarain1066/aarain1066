@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aarain1066
-- 👀 I’m interested in anything Software Engineering, Physics, and racing!
-- 🌱 I’m currently learning R, Python, C, JavaScript, CSS.
+- :briefcase: Currently a Software Engineer at United States Special Opertions Command (Contract)
+- 👀 I’m interested in anything Physics, Software Engineering, and racing!
+- 🌱 I’m currently learning R, Python, C/C++, JavaScript, CSS.
+- :video_game: Want to make a video game (Using C++ and Unreal Engine) ? Message me!
 - 📫 Email me! : aarain1066@gmail.com
 
 <!---
