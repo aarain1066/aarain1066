@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aarain1066
+- 👋 Hi, I’m Asim!
 - :briefcase: Currently a Software Engineer at United States Special Opertions Command (Contract)
 - 👀 I’m interested in anything Physics, Software Engineering, and racing!
-- 🌱 I’m currently learning R, Python, C/C++, JavaScript, CSS.
-- :video_game: Want to make a video game (Using C++ and Unreal Engine) ? Message me!
+- 🌱 Improving proficiency in C/C++, Python, R, JavaScript, CSS.
+- :video_game: Want to make a video game (C++ and Unreal Engine) ? Message me!
 - 📫 Email me! : aarain1066@gmail.com
 
 <!---
