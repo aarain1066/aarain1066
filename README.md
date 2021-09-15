@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asim!
 - :briefcase: Currently a Software Engineer at United States Special Opertions Command (Contract).
-- 👀 I’m interested in anything Physics, software engineering, and racing!
+- 👀 I’m interested in anything Physics :atom:, software engineering 💻, and racing! 🏎️
 - 🌱 Improving proficiency in C/C++, Python, R, CSS.
 - :video_game: Want to make a video game (C++ and Unreal Engine) ? Message me!
 - 📫 Email me! : aarain1066@gmail.com
