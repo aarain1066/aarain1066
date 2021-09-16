@@ -2,7 +2,7 @@
 - :briefcase: Currently a Software Engineer at United States Special Opertions Command (Contract).
 - 👀 I’m interested in anything physics :atom:, software engineering 💻, and racing! 🏎️
 - 🌱 Improving proficiency in C/C++, Python, R, CSS, SQL.
-- :video_game: Interested in making a video game? (C++ and Unreal Engine) ? Message me!
+- :video_game: Interested in making a video game? (C++ and Unreal Engine) Message me!
 - 📫 Email me! : aarain1066@gmail.com
 
 <!---
